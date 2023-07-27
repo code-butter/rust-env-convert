@@ -1,0 +1,9 @@
+[package]
+name = "env-convert"
+version = "0.1.0"
+authors = ["Jeremy Nicoll"]
+edition = "2021"
+description = "Conversion of environment variables with default values."
+readme = "README.md"
+repository = "https://github.com/code-butter/rust-env-convert"
+license = "MIT"
